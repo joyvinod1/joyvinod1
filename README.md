@@ -8,7 +8,7 @@ I’m a 𝗦𝗲𝗻𝗶𝗼𝗿 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃�
 Throughout my career, I’ve played pivotal roles in driving projects from concept to deployment—balancing strong technical leadership with hands-on expertise. In the service sector, I’ve contributed to a wide range of client projects, consistently delivering high-quality outcomes while taking ownership of core technical components.
 
 ## ⭐ 𝗞𝗲𝘆 𝗤𝘂𝗮𝗹𝗶𝘁𝗶𝗲𝘀
-C++, SQL Database expert, High quality in deliveries, Ability to deliver key and complex projects/functionalities, Thorough reviews of design, logic and code.
+C++, SQL Database expert, SQL Quwey performance tuning, SQL deadlock resolution, High quality in deliveries, Ability to deliver key and complex projects/functionalities, Thorough reviews of design, logic and code.
 
 ## 🔧 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝘁𝗶𝗲𝘀
 - **Languages & Frameworks:** C++23, STL, VC++, COM, C#, .NET Framework, ASP.NET MVC, WPF
